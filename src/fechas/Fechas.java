@@ -1,3 +1,9 @@
+/* Rodrigo Valladares Santana L1 
+ * Programación de Aplicaciones Interactivas Práctica 3
+ * 
+ * Clase que devuelve la edad de una persona dada la fecha actual y la fecha de nacimiento de la persona.
+ * 
+ * */
 package fechas;
 
 public class Fechas {
